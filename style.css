@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+body {
+	font: 'Fredoka One', cursive;;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 2;
+    top: 15%;
+	background: linear-gradient(to right, red , yellow); /* Standard syntax */
+}
+
+h1 {
+    font: 40px 'Fredoka One', cursive;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3;
+    letter-spacing: 4px;
+    padding-top: 30px;
+    margin-bottom: 30px;
+    
+}
+
+h2{
+    font: 30px 'Fredoka One', cursive;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+
+h3 {
+	font: 20px 'Fredoka One', cursive;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+}
